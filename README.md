@@ -1,6 +1,6 @@
 # StackExchange Chat Dark Theme Lite
 
-## TylerH fork
+## TylerH's fork
 
 Restyled rlemon's fork of Oliver's original.
   
