@@ -1,11 +1,11 @@
-# StackExchange Chat Dark Theme (plus!)
+# StackExchange Chat Dark Theme Lite
 
-## rlemon fork
+## TylerH fork
 
-restyled Olivers original and added a bunch of JS "features".   
+Restyled rlemon's fork of Oliver's original.
   
 ![](http://i.imgur.com/xxMPtoI.png)
 
-Only tested in Chrome. FireFox is on the roadmap. IE is smelly and will not get support. 
+Only tested in Firefox. 
 
-Available for Chrome here: https://chrome.google.com/webstore/detail/so-dark-chat-%20/bbkjccfnenmgidehjhaabamobpbaaghh  
+Available some day soon.
